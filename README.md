@@ -2,7 +2,7 @@
 
 Este es un proyecto de datos
 
-#Colaboradores
+# Colaboradores
 
 NELSON STEVE MATA ALFARO
 STEVEN FERNANDO GARCIA MEJIA
