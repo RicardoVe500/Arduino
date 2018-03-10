@@ -4,6 +4,6 @@ Este es un proyecto de datos
 
 #Colaboradores
 
-steve
-Steven
-Ricardo
+NELSON STEVE MATA ALFARO
+STEVEN FERNANDO GARCIA MEJIA
+RICARDO ALEJANDRO VELASQUEZ VEGA
