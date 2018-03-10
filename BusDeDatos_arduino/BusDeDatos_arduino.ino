@@ -4,6 +4,14 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+ if(Serial.available()){
+   char Letra = Serial.read();
+   Serial.print(Letra);
+   if(Letra =='H'){
+    digitalWrite(13,1);
+   }
+   else if(Letra == 'L'){
+    digitalWrite(13,0);
+   }
+ }
 }
